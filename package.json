@@ -49,7 +49,7 @@
   "dependencies": {
     "escomplex-js": "~1.2.0",
     "fs-extra": "^0.3.2",
-    "glob": "~4.4.1",
+    "glob": "~4.5.3",
     "jshint": "~2.6.3",
     "lodash": "^3.3.1",
     "posix-getopt": "~1.1.0",
